@@ -2,7 +2,7 @@
 
 * 💬 Ask me about Java, Python, Android, Mysql
 * 🔭 I work at SSW https://www.ssw.com.au/people/robin-lin 
-* 👭 I am dad to 1 cute girl 
+* 👪 I am dad to 1 cute girl 
  
 * 🌱 I’m currently learning English 
 * 👯 We are running UserGroup https://fireusergroup.com/  
