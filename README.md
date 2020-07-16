@@ -8,7 +8,7 @@
 * 👯 We are running UserGroup https://fireusergroup.com/  
 * 📫 How to reach me: @robinrush1989  
 * 😄 Pronouns: He/him  
-* ⚡ Fun fact: I once aboard a cruise ship but it got stranded.
+* ⚡ Fun fact: I once got stranded aboard a cruise ship
 
 Cheers  
 Robin Lin  
