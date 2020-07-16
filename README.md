@@ -5,7 +5,7 @@
 * 👪 I am dad to 1 cute girl 
  
 * 🌱 I’m currently learning English 
-* 👯 We are running UserGroup https://fireusergroup.com/  
+* 👯 We are running UserGroup https://fireusergroup.com
 * 📫 How to reach me: @robinrush1989  
 * 😄 Pronouns: He/him  
 * ⚡ Fun fact: I once got stranded aboard a cruise ship
