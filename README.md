@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-* 💬 Ask me about Java, Python, Android, Mysql
+* 💬 Ask me about Java, Python, Android, Mysql, Azure, Ali Cloud, VUE and how to build your applications.
 * 🔭 I work at SSW https://www.ssw.com.au/people/robin-lin 
 * 👪 I am dad to 1 cute girl 
  
