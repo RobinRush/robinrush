@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-* 💬 Ask me about Java, Python, Android, Mysql, Azure, Ali Cloud, VUE and how to build your applications.
+* 💬 Ask me about Java, Python, Android, Mysql, Azure, Ali Cloud, VUE, .Net Core, React, Angular and how to build your applications.
 * 🔭 I work at SSW https://www.ssw.com.au/people/robin-lin 
 * 👪 I am dad to 1 cute girl 
  
 * 🌱 I’m currently learning English 
-* 👯 We are running UserGroup https://fireusergroup.com
+* 👯 We are running a developer user group in Hangzhou, China, https://fireusergroup.com
 * 📫 How to reach me: @robinrush1989  
 * 😄 Pronouns: He/him  
 * ⚡ Fun fact: I once got stranded aboard a cruise ship
