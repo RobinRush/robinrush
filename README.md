@@ -13,4 +13,4 @@
 Cheers  
 Robin Lin  
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/GzdKMVn8avo/0.jpg)](https://www.youtube.com/embed/0gSgpzmbrBM"CameraMaster")
+<iframe width="710" height="400" src="https://www.youtube.com/embed/0gSgpzmbrBM" frameborder="0"></iframe>
